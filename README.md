@@ -13,6 +13,7 @@
 ### 文件说明
 - main.py 主要执行程序
 - function.py 读取因子数据并作简单的数据处理
+- data_analysis.py 编写了一些做数据可视化与统计量计算的函数
 - monthToDat.py 将低频（月频，季频等）因子数据转化为日频数据
 - progress_limit_stopping.py 做涨跌停处理
 - transaction_calculate.py 计算交易费用
